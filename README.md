@@ -3,7 +3,7 @@
 ![Profile Banner](https://github.com/mrhimanshu0207/mrhimanshu0207/blob/main/banner.png)
 
 ## 💻 About Me
-I'm a 22-year-old passionate **Web Developer & Tech Enthusiast** from India.  
+I'm a 20-year-old passionate **Web Developer & Tech Enthusiast** from India.  
 I specialize in **JavaScript, HTML, and CSS**, building interactive and user-friendly applications.  
 I love learning new technologies, contributing to **open-source projects**, and continuously improving myself.  
 
