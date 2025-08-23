@@ -42,7 +42,7 @@ Web Developer | JS • HTML • CSS | Building projects & learning daily 🚀
 <p float="left">
   <a href="mailto:himanshu0207@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/himanshu-singh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/hmverse"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_.hi.manshu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://mrhimanshu0207.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 </p>
 
@@ -50,7 +50,6 @@ Web Developer | JS • HTML • CSS | Building projects & learning daily 🚀
 
 ## ⚡ Fun Facts
 
-- Currently on a fitness journey: **42–43 kg → 54 kg** 💪  
 - Love combining **tech + creativity** in projects  
 - Always learning, building, and leveling up every day 🚀  
 
