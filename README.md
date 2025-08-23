@@ -24,7 +24,7 @@ Web Developer | JS • HTML • CSS | Building projects & learning daily 🚀
 | [Resume Builder](https://github.com/mrhimanshu0207/Resume-Builder) | Online resume builder with PDF export & theme switcher. |
 | [File Sharing App](https://github.com/mrhimanshu0207/File-Sharing-App) | Secure file uploads and link sharing with Firebase. |
 | [Portfolio Website](https://github.com/mrhimanshu0207/Portfolio) | Personal portfolio showcasing projects, skills & achievements. |
-| [weather forecasting app]() |
+[Weather Forecast App](https://github.com/mrhimanshu0207/Weather-Forecast-App) | A web app that provides real-time weather information for any city. |
 
 ---
 
