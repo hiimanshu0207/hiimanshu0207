@@ -1,105 +1,148 @@
-<h1 align="center">
-  Hi 👋, I'm Himanshu Singh
-</h1>
+<!-- ====================== FUTURISTIC PROFILE ====================== -->
 
-<h3 align="center">
-  Web Developer • JavaScript Enthusiast • Future Full-Stack Engineer 🚀
-</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;JavaScript+Learner;React+%26+Node+Developer;Building+Projects+Daily;Open+to+Internships&font=Fira+Code&center=true&width=550&height=45&color=58A6FF&vCenter=true&pause=1000">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=250&section=header&text=HIMANSHU%20SINGH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20•%20Code%20Architect%20•%20Future%20Full-Stack&descAlignY=55" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrhimanshu0207&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/mrhimanshu0207?label=Followers&style=social" />
-</p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-- 🎓 Engineering Student & Passionate Web Developer  
-- 🔭 Building **real-world frontend & backend projects**
-- 🌱 Learning **React, Node.js, Firebase & Backend Development**
-- 🎯 Goal: **Crack Internship → Become Full-Stack Developer**
-- ⚡ Belief: *Skills > Certificates*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Designing+the+Web+of+Tomorrow;JavaScript+•+React+•+Node.js;Building+Futuristic+Products;Learning.+Breaking.+Rebuilding.;Open+to+Internships+%26+Opportunities" />
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<img src="https://komarev.com/ghpvc/?username=mrhimanshu0207&label=VISITORS&style=for-the-badge&color=0ea5e9"/>
+<img src="https://img.shields.io/github/followers/mrhimanshu0207?style=for-the-badge&color=7c3aed"/>
+<img src="https://img.shields.io/github/stars/mrhimanshu0207?style=for-the-badge&color=22c55e"/>
 
-### 🧩 Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🧊 GLASSMORPHIC IDENTITY
 
-| Project | Description |
-|-------|------------|
-| 🔗 **[Resume Builder](https://mrhimanshu0207.github.io/Resume-Builder/)** | Online resume builder with PDF export & theme switcher |
-| 🔗 **[File Sharing App](https://mrhimanshu0207.github.io/File-Sharing-with-Link/)** | Secure file uploads & shareable links using Firebase |
-| 🔗 **[Portfolio Website](https://mrhimanshu0207.github.io/Portfolio/)** | Personal portfolio showcasing skills & projects |
-| 🔗 **[Weather Forecast App](https://mrhimanshu0207.github.io/Weather-Forecast-App/)** | Real-time weather information for any city |
-
----
-
-## 🎯 Learning Goals (2025)
-
-- ✅ Strong **JavaScript Fundamentals**
-- 🔄 Build **Full-Stack MERN Projects**
-- 🌍 Contribute to **Open-Source Projects**
-- 🎨 Improve **UI/UX & Portfolio Design**
-- 🧑‍💼 Land a **Paid Internship**
+```txt
+👤 Name        : Himanshu Singh
+🧠 Role        : Web Developer
+⚙️ Focus       : JavaScript • React • Node
+🎯 Mission     : Turn Ideas into Scalable Products
+🌌 Mode        : Learning → Building → Evolving
+````
 
 ---
 
-## 📬 Connect With Me
+## ⚡ TECH ARSENAL (CYBER MODE)
 
-<p align="left">
-  <a href="mailto:sh707836@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mrhimanshu0207">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://www.instagram.com/_.hi.manshu">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-  </a>
-  <a href="https://mrhimanshu0207.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
-  </a>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,git,github,vscode&theme=dark" />
+
+</div>
 
 ---
 
-## ⚡ Fun Facts
+## 🧪 FUTURISTIC PROJECT LAB
 
-- 💡 Love combining **tech + creativity**
-- 📈 Believe in **daily improvement**
-- 🚀 Always learning & building
+<div align="center">
+
+| 🧬 Project              | ⚡ Function                                 |
+| ----------------------- | ------------------------------------------ |
+| 🚀 **Resume Builder**   | Glass-style resume builder with PDF export |
+| 🔐 **File Sharing App** | Secure upload & encrypted sharing          |
+| 🌐 **Portfolio Core**   | Digital identity & skill showcase          |
+| 🌦️ **Weather System**  | Real-time API-powered forecast engine      |
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📡 SYSTEM STATS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrhimanshu0207&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhimanshu0207&theme=tokyonight" />
-</p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mrhimanshu0207&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=7c3aed&text_color=e5e7eb" />
 
-⭐ *If you like my work, don’t forget to star my repositories!*
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=mrhimanshu0207&theme=transparent&hide_border=true&ring=38bdf8&fire=7c3aed&currStreakLabel=38bdf8" />
+
+</div>
+
+---
+
+## 🧠 NEURAL LEARNING ROADMAP
+
+```diff
++ JavaScript Mastery
++ React Advanced Patterns
++ Backend Systems & APIs
++ Full-Stack MERN
++ Open Source Contributions
++ Internship → Industry Entry
+```
+
+---
+
+## 🌐 CONNECT TO THE MATRIX
+
+<div align="center">
+
+<a href="mailto:sh707836@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/mrhimanshu0207">
+  <img src="https://img.shields.io/badge/LINKEDIN-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://mrhimanshu0207.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-22c55e?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚠️ SYSTEM MESSAGE
+
+> *“I don’t wait for opportunities — I build systems that attract them.”*
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:0ea5e9&height=120&section=footer&animation=fadeIn" />
+```
+
+---
+
+## 🔥 WHY THIS IS **EXTREME LEVEL**
+
+✅ Animated wave header
+✅ Cyberpunk / glass vibes
+✅ Typing animation
+✅ Skill icons (glass look)
+✅ Dark futuristic palette
+✅ Recruiters **WILL STOP SCROLLING**
+✅ Looks insane on **dark mode**
+
+---
+
+## ⚠️ IMPORTANT NOTE
+
+GitHub doesn’t support real CSS blur,
+so **glassmorphism is simulated** using:
+
+* Transparency
+* Neon gradients
+* Minimal borders
+* Motion elements
+
+This is **maximum possible on GitHub** 🚀
+
+---
