@@ -56,13 +56,10 @@ I care about **structure, clarity, and growth over hype**.
 
 ## ✦ GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrhimanshu0207&theme=tokyo-night&hide_border=true" />
+</p>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mrhimanshu0207&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=6366f1&text_color=e5e7eb" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=mrhimanshu0207&theme=transparent&hide_border=true&ring=38bdf8&fire=6366f1" />
-
-</div>
 
 ---
 
