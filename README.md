@@ -1,191 +1,61 @@
-<!-- ===================== PURE BLACK CYBER / BACKEND PROFILE ===================== -->
+# 👋 Hi, I'm Himanshu Singh
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:000000,100:020617&text=Himanshu%20Singh&fontSize=48&fontColor=E5E7EB&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Web%20Developer%20•%20JavaScript%20•%20Future%20Full-Stack&descAlignY=55" />
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+reliable+backend+systems;JavaScript+%7C+Node.js+%7C+React;Clean+Code+%E2%80%A2+Real+Projects;Consistency+Over+Hype" />
-
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mrhimanshu0207&style=flat&color=38bdf8"/>
-<img src="https://img.shields.io/github/followers/mrhimanshu0207?style=flat&color=475569"/>
-
-</div>
+Web Developer | JS • HTML • CSS | Building projects & learning daily 🚀  
 
 ---
 
-## 🧬 About Me
+## 🛠️ Skills
 
-I’m a **backend-oriented web developer** focused on building **clean, functional, real-world applications**.  
-I value **clarity, discipline, and long-term growth** over trends.
-
-- JavaScript-first mindset  
-- Frontend with **React** (for complete delivery)  
-- Backend fundamentals with **Node.js & Firebase**  
-- Actively preparing for **internships & industry work**
-
----
-
-## 🧠 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,git,github,vscode&theme=dark" />
-
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📄 Resume (Auto-Synced)
+## 📂 Projects
 
-My resume is **auto-synced with GitHub**, ensuring it always reflects my latest skills and projects.
+| Project | Description |
+|---------|-------------|
+| [Resume Builder](https://mrhimanshu0207.github.io/Resume-Builder/) | Online resume builder with PDF export & theme switcher. |
+| [File Sharing App](https://mrhimanshu0207.github.io/File-Sharing-with-Link/) | Secure file uploads and link sharing with Firebase. |
+| [Portfolio Website](https://mrhimanshu0207.github.io/Portfolio/) | Personal portfolio showcasing projects, skills & achievements. |
+[Weather Forecast App](https://mrhimanshu0207.github.io/Weather-Forecast-App/) | A web app that provides real-time weather information for any city. |
 
-- 📂 Source: `cv.pdf`
-- 🔁 Updated with every major project or skill milestone
-- 🛠 Maintained alongside real code
+---
 
-<p align="center">
-  <a href="https://github.com/mrhimanshu0207/mrhimanshu0207/blob/main/cv.pdf">
-    <img src="https://img.shields.io/badge/View%20Resume-020617?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
+## 🎯 Learning Goals
+
+- Advanced **JavaScript & React**  
+- Full-stack development with **Node.js & Firebase**  
+- Contributing to **Open-source projects**  
+- Improving **UI/UX skills and portfolio design**  
+
+---
+
+## 📬 Contact Me
+
+<p float="left">
+  <a href="mailto:sh707836@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mrhimanshu0207"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_.hi.manshu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://mrhimanshu0207.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🧊 Featured Projects (Glassmorphism)
+## ⚡ Fun Facts
 
-<p align="center">
-  <a href="https://github.com/mrhimanshu0207/Resume-Builder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhimanshu0207&repo=Resume-Builder&theme=transparent&hide_border=true&border_radius=14" />
-  </a>
-  <a href="https://github.com/mrhimanshu0207/File-Sharing-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhimanshu0207&repo=File-Sharing-App&theme=transparent&hide_border=true&border_radius=14" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mrhimanshu0207/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhimanshu0207&repo=Portfolio&theme=transparent&hide_border=true&border_radius=14" />
-  </a>
-  <a href="https://github.com/mrhimanshu0207/Weather-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhimanshu0207&repo=Weather-App&theme=transparent&hide_border=true&border_radius=14" />
-  </a>
-</p>
+- Love combining **tech + creativity** in projects  
+- Always learning, building, and leveling up every day 🚀  
 
 ---
 
-## 📈 Contribution Heatmap (Minimal)
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrhimanshu0207&theme=minimal&hide_border=true" />
-</p>
-
----
-
-## 📊 GitHub Stats (Clean)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrhimanshu0207&show_icons=true&theme=transparent&hide_border=true&icon_color=38BDF8&text_color=CBD5F5" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhimanshu0207&theme=transparent&hide_border=true&ring=38BDF8&currStreakLabel=38BDF8" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhimanshu0207&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## 🧠 Problem Solving (LeetCode + GitHub)
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/mrhimanshu0207?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
-</p>
-
-<p align="center">
-  <sub>DSA practice to strengthen logic, patterns, and backend thinking</sub>
-</p>
-
----
-
-## 📈 DSA Roadmap
-
-### Current Focus
-- Arrays & Strings  
-- Hashing & Two Pointers  
-- Basic Recursion  
-
-### Upcoming
-- Stacks & Queues  
-- Linked Lists  
-- Trees & Binary Search Trees  
-
-### Long-Term
-- Graphs (BFS / DFS)  
-- Dynamic Programming  
-- Backend-oriented problem patterns  
-
-<p align="center">
-  <sub>Consistency > speed. Depth > shortcuts.</sub>
-</p>
-
----
-
-## 🧩 Backend Focus
-
-While I build full-stack projects, my **primary interest is backend development**.
-
-### Interests
-- REST APIs & server logic  
-- Authentication & authorization  
-- Database design & optimization  
-- Scalable backend architecture (learning phase)
-
-### Tools & Practices
-- Node.js  
-- Firebase (Auth + Firestore)  
-- Git-based workflows  
-- Modular, readable backend code
-
-<p align="center">
-  <sub>Reliable systems are built quietly.</sub>
-</p>
-
----
-
-## 🎯 2025 Focus
-
-- Deepen **JavaScript & Node.js mastery**  
-- Build **end-to-end backend-heavy projects**  
-- Improve **performance & security basics**  
-- Secure a **paid internship**
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-<a href="mailto:sh707836@gmail.com">
-  <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/mrhimanshu0207">
-  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://mrhimanshu0207.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-  <sub>Silent work • Sharp focus • Real progress</sub>
-</div>
+![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrhimanshu0207&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhimanshu0207&layout=compact&theme=radical)
