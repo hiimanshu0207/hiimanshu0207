@@ -40,3 +40,8 @@
 ┌─[fun_fact]──────────────────────
 > I mix tech + creativity ⚡
 > I build or learn every day 🚀
+
+<!-- 🧿 Anime Aesthetic Divider --> <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif" width="420"> </p>
+📊 Animated GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mrhimanshu0207&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhimanshu0207&theme=tokyonight&hide_border=true&background=00000000" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhimanshu0207&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" /> </p>
+<!-- 🟩 Matrix Rain Footer --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b61ff,50:00ccff,100:00ff99&height=120&section=footer" /> ```
