@@ -47,12 +47,12 @@ I value **clarity, discipline, and long-term growth** over trends.
 
 My resume is **auto-synced with GitHub**, ensuring it always reflects my latest skills and projects.
 
-- 📂 Source: `/resume/cv.pdf`
+- 📂 Source: `cv.pdf`
 - 🔁 Updated with every major project or skill milestone
 - 🛠 Maintained alongside real code
 
 <p align="center">
-  <a href="https://github.com/mrhimanshu0207/blob/main/resume/cv.pdf">
+  <a href="https://github.com/mrhimanshu0207/mrhimanshu0207/blob/main/cv.pdf">
     <img src="https://img.shields.io/badge/View%20Resume-020617?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
