@@ -1,133 +1,178 @@
-# 👋 Hi, I'm Himanshu Singh  
+<!-- ===================== HERO SECTION ===================== -->
 
-**Web Developer | JavaScript • HTML • CSS • React • Node.js**  
-Building projects, learning daily & mixing tech with creativity 🚀  
+<h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+%26+Full-Stack+Learner;React+%7C+Node.js+%7C+JavaScript;Building+Projects+Every+Day+🚀" />
+</p>
+
+<p align="center">
+  <b>Web Developer • UI Focused • Project Driven</b><br/>
+  Turning ideas into clean, scalable & aesthetic web experiences ✨
+</p>
+
+<p align="center">
+  <a href="mailto:sh707836@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/mrhimanshu0207">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/_himanshu0._.0">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://mrhimanshu0207.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 💫 About Me
 
 🔭 **Currently working on**  
-Web development projects using JavaScript, HTML, CSS, React & Node.js — including portfolio websites and utility web apps.
+Modern web applications using **JavaScript, React, Node.js, HTML & CSS**
 
-👯 **Looking to collaborate on**  
-Beginner-friendly open-source projects, frontend/UI-focused web apps, and learning-based collaborations.
+👯 **Open to collaborate on**  
+Beginner-friendly **open-source**, frontend & UI-focused projects
 
 🤝 **Looking for help with**  
-Advanced React concepts, full-stack development, and best practices for scalable applications.
+Advanced React patterns, backend architecture & scalable apps
 
 🌱 **Currently learning**  
-Advanced JavaScript, React, Node.js, Firebase, and improving UI/UX design skills.
+Advanced JavaScript, React, Node.js, Firebase & UI/UX design
 
 💬 **Ask me about**  
-Frontend development, JavaScript basics, Git/GitHub, project building, and portfolio creation.
+Frontend development, Git/GitHub, project building & portfolios
 
 ⚡ **Fun fact**  
-I love mixing tech + creativity and try to build or learn something new every day 🚀  
-
----
-
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_himanshu0._.0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrhimanshu0207)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sh707836@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mrhimanshu0207.github.io/Portfolio/)
+I mix **tech + creativity** and try to improve something every single day 🚀
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Core
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,vite" />
+</p>
 
 ### 🧠 Backend & Databases
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,sqlite,firebase" />
+</p>
 
 ### ☁️ Cloud & Big Data
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
-![Apache Cassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,cloudflare" />
+</p>
 
-### 🛠️ Tools & Design
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/vscode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+### 🧰 Tools & Design
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop,figma" />
+</p>
 
 ---
 
-## 📂 Projects
+## 🚀 Featured Projects
 
-| Project | Description |
-|--------|------------|
-| **Resume Builder** | Online resume builder with PDF export & theme switcher |
-| **File Sharing App** | Secure file upload & link sharing using Firebase |
-| **Portfolio Website** | Personal portfolio showcasing skills & projects |
-| **Weather Forecast App** | Real-time weather info for any city |
+<!-- PROJECT CARD 1 -->
+### 🧾 Resume Builder
+<p align="center">
+  <a href="https://mrhimanshu0207.github.io/Resume-Builder/">
+    <img src="https://raw.githubusercontent.com/mrhimanshu0207/Resume-Builder/main/preview.png" width="90%" />
+  </a>
+</p>
 
-🔗 **Live Projects:**  
-- https://mrhimanshu0207.github.io/Resume-Builder/  
-- https://mrhimanshu0207.github.io/File-Sharing-with-Link/  
-- https://mrhimanshu0207.github.io/Portfolio/  
-- https://mrhimanshu0207.github.io/Weather-Forecast-App/  
-
----
-
-## 🎯 Learning Goals
-
-- Advanced **JavaScript & React**
-- Full-stack development with **Node.js & Firebase**
-- Contributing to **Open-Source**
-- Better **UI/UX & portfolio design**
+**Tech:** HTML • CSS • JavaScript  
+**Features:** PDF export, themes, live preview  
+🔗 Live: https://mrhimanshu0207.github.io/Resume-Builder/
 
 ---
 
-## 📊 GitHub Stats
+<!-- PROJECT CARD 2 -->
+### 📁 File Sharing App
+<p align="center">
+  <a href="https://mrhimanshu0207.github.io/File-Sharing-with-Link/">
+    <img src="https://raw.githubusercontent.com/mrhimanshu0207/File-Sharing-with-Link/main/preview.png" width="90%" />
+  </a>
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=mrhimanshu0207&theme=ambient_gradient&hide_border=false&include_all_commits=true)
-![](https://nirzak-streak-stats.vercel.app/?user=mrhimanshu0207&theme=ambient_gradient&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhimanshu0207&layout=compact&theme=ambient_gradient)
+**Tech:** JavaScript • Firebase  
+**Features:** Secure upload, shareable links  
+🔗 Live: https://mrhimanshu0207.github.io/File-Sharing-with-Link/
+
+---
+
+<!-- PROJECT CARD 3 -->
+### 🌦️ Weather Forecast App
+<p align="center">
+  <a href="https://mrhimanshu0207.github.io/Weather-Forecast-App/">
+    <img src="https://raw.githubusercontent.com/mrhimanshu0207/Weather-Forecast-App/main/preview.png" width="90%" />
+  </a>
+</p>
+
+**Tech:** JavaScript • API  
+**Features:** Real-time weather, city search  
+🔗 Live: https://mrhimanshu0207.github.io/Weather-Forecast-App/
+
+---
+
+<!-- PROJECT CARD 4 -->
+### 🌐 Portfolio Website
+<p align="center">
+  <a href="https://mrhimanshu0207.github.io/Portfolio/">
+    <img src="https://raw.githubusercontent.com/mrhimanshu0207/Portfolio/main/preview.png" width="90%" />
+  </a>
+</p>
+
+**Tech:** React • CSS  
+**Features:** Projects, skills, contact  
+🔗 Live: https://mrhimanshu0207.github.io/Portfolio/
+
+---
+
+## 🎯 Learning Goals (2025)
+
+- Master **Advanced React & JavaScript**
+- Become **Full-Stack Developer**
+- Contribute to **Open-Source**
+- Build production-ready projects
+- Improve **UI/UX & performance**
+
+---
+
+## 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrhimanshu0207&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mrhimanshu0207&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhimanshu0207&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=mrhimanshu0207&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrhimanshu0207&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🔝 Top Contributed Repos
-
-![](https://github-contributor-stats.vercel.app/api?username=mrhimanshu0207&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=mrhimanshu0207&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=mrhimanshu0207&icon=5&color=12" />
+</p>
 
-<!-- Proudly built by Himanshu Singh -->
+<!-- ===================== END ===================== -->
