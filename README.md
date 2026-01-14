@@ -85,7 +85,7 @@ I believe in **clarity, discipline, and long-term growth**.
 ## 🧠 Problem Solving (LeetCode + GitHub)
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/mrhimanshu0207?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 </p>
 
 <p align="center">
