@@ -1,61 +1,49 @@
-# 👋 Hi, I'm Himanshu Singh
+<!-- 🌀 Animated Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00D9F5,100:7B61FF&height=180&section=header&text=Hi,%20I'm%20Himanshu%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-Web Developer | JS • HTML • CSS | Building projects & learning daily 🚀  
-
----
-
-## 🛠️ Skills
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📂 Projects
-
-| Project | Description |
-|---------|-------------|
-| [Resume Builder](https://mrhimanshu0207.github.io/Resume-Builder/) | Online resume builder with PDF export & theme switcher. |
-| [File Sharing App](https://mrhimanshu0207.github.io/File-Sharing-with-Link/) | Secure file uploads and link sharing with Firebase. |
-| [Portfolio Website](https://mrhimanshu0207.github.io/Portfolio/) | Personal portfolio showcasing projects, skills & achievements. |
-[Weather Forecast App](https://mrhimanshu0207.github.io/Weather-Forecast-App/) | A web app that provides real-time weather information for any city. |
-
----
-
-## 🎯 Learning Goals
-
-- Advanced **JavaScript & React**  
-- Full-stack development with **Node.js & Firebase**  
-- Contributing to **Open-source projects**  
-- Improving **UI/UX skills and portfolio design**  
-
----
-
-## 📬 Contact Me
-
-<p float="left">
-  <a href="mailto:sh707836@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mrhimanshu0207"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/_.hi.manshu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://mrhimanshu0207.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+<!-- 🌌 Neon Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F5A0&center=true&vCenter=true&width=800&lines=Web+Developer+%7C+JavaScript+%7C+React;Tech+%2B+Creativity+%3D+Magic;Learning+%7C+Building+%7C+Leveling+Up+Every+Day" />
 </p>
 
 ---
 
-## ⚡ Fun Facts
-
-- Love combining **tech + creativity** in projects  
-- Always learning, building, and leveling up every day 🚀  
+<!-- 🌌 Neon Glow Border -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749694-6c3c4c70-fb8c-4f9e-b2b6-3f0b3d6e6c99.gif" width="90%">
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Hacker Terminal — About Me
 
-![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrhimanshu0207&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhimanshu0207&layout=compact&theme=radical)
+```bash
+┌─[himanshu@github]─[~/about-me]
+└──╼ $ whoami
+> Web Developer | Frontend Focused
+
+┌─[skills]───────────────
+> HTML • CSS • JavaScript
+> React • Node.js • Git • GitHub
+
+┌─[status]───────────────
+> Building real-world projects
+> Improving UI/UX daily
+
+┌─[learning]─────────────
+> Advanced JavaScript & React
+> Node.js • Firebase
+> Open Source Contributions
+
+┌─[collaboration]────────
+> Open-source projects
+> Frontend & UI-based apps
+
+┌─[fun_fact]─────────────
+> I mix tech + creativity ⚡
+> I build or learn every day 🚀
+
+<!-- 🧿 Anime Aesthetic Divider --> <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif" width="400"> </p>
+📊 Animated GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mrhimanshu0207&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhimanshu0207&theme=tokyonight&hide_border=true&background=00000000" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhimanshu0207&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" /> </p>
+<!-- 🌌 Neon Footer --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B61FF,50:00D9F5,100:00F5A0&height=120&section=footer" /> ```
