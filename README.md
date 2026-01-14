@@ -1,21 +1,21 @@
-<!-- ===================== FUTURISTIC / SPACE PROFILE ===================== -->
+<!-- ===================== PURE BLACK CYBER PROFILE ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:020617,100:0b1e33&text=Himanshu%20Singh&fontSize=48&fontColor=E5E7EB&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20•%20JavaScript%20•%20Future%20Full-Stack&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:000000,100:020617&text=Himanshu%20Singh&fontSize=48&fontColor=E5E7EB&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20•%20JavaScript%20•%20Future%20Full-Stack&descAlignY=55" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+modern+web+experiences;JavaScript+%7C+React+%7C+Node.js;Clean+Code+%E2%80%A2+Real+Projects;Focused+on+Long-Term+Growth" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+modern+web+experiences;JavaScript+%7C+React+%7C+Node.js;Clean+Code+%E2%80%A2+Real+Projects;Focused+on+Consistency+Over+Hype" />
 
 </div>
 
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=mrhimanshu0207&style=flat&color=38bdf8"/>
-<img src="https://img.shields.io/github/followers/mrhimanshu0207?style=flat&color=64748b"/>
+<img src="https://img.shields.io/github/followers/mrhimanshu0207?style=flat&color=475569"/>
 
 </div>
 
@@ -23,13 +23,13 @@
 
 ## 🧬 About Me
 
-I’m a **web developer focused on building clean, functional, real-world applications**.  
-I value **clarity, structure, and consistency over hype**.
+I’m a **web developer focused on clean, functional, real-world applications**.  
+I believe in **clarity, discipline, and long-term growth**.
 
 - JavaScript-first mindset  
 - Frontend development with **React**  
 - Backend fundamentals using **Node.js & Firebase**  
-- Actively preparing for **internships & industry-level work**
+- Preparing for **internships & professional work**
 
 ---
 
@@ -43,46 +43,62 @@ I value **clarity, structure, and consistency over hype**.
 
 ---
 
-## 🌌 Selected Projects
+## 📄 Pinned Repositories
 
-| Project | Description |
-|------|-------------|
-| **Resume Builder** | Resume creation with themes & PDF export |
-| **File Sharing App** | Secure uploads with shareable links |
-| **Portfolio Website** | Personal branding & project showcase |
-| **Weather App** | Real-time weather using public APIs |
+<p align="center">
+  <a href="https://github.com/mrhimanshu0207/Resume-Builder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhimanshu0207&repo=Resume-Builder&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/mrhimanshu0207/File-Sharing-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhimanshu0207&repo=File-Sharing-App&theme=transparent&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mrhimanshu0207/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhimanshu0207&repo=Portfolio&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/mrhimanshu0207/Weather-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhimanshu0207&repo=Weather-App&theme=transparent&hide_border=true" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats (Clean)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrhimanshu0207&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrhimanshu0207&show_icons=true&theme=transparent&hide_border=true&icon_color=38BDF8&text_color=CBD5F5" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhimanshu0207&theme=transparent&hide_border=true&ring=38BDF8&currStreakLabel=38BDF8" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhimanshu0207&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
 ## 🎯 2025 Focus
 
-- Strengthen **JavaScript & React fundamentals**  
-- Build **full-stack applications**  
-- Improve **UI/UX quality & performance**  
+- Deepen **JavaScript & React mastery**  
+- Build **end-to-end full-stack projects**  
+- Improve **UI/UX and performance quality**  
 - Secure a **paid internship**
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <div align="center">
 
 <a href="mailto:sh707836@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0b1e33?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/mrhimanshu0207">
-  <img src="https://img.shields.io/badge/LinkedIn-0b1e33?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://mrhimanshu0207.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
 </a>
 
 </div>
@@ -90,7 +106,5 @@ I value **clarity, structure, and consistency over hype**.
 ---
 
 <div align="center">
-
-<sub>Quiet work • Deep focus • Long-term growth</sub>
-
+  <sub>Silent work • Sharp focus • Real progress</sub>
 </div>
