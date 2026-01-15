@@ -1,11 +1,36 @@
-# 👋 Hi, I'm Himanshu Singh
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTE5ejVoYm5zYWNrY2V6c3d0Y2FyZTZvZW5mMHF3OGttcWhseG5iYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="100%" />
 
-Web Developer | JS • HTML • CSS | Building projects & learning daily 🚀  
+<h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
+<h3 align="center">Web Developer | Frontend-Focused | India 🇮🇳</h3>
+
+<img align="right" alt="Coding" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ---
 
-## 🛠️ Skills
+### 👨‍💻 About Me
+- 🔭 Web Developer passionate about building clean & responsive UIs  
+- 🌱 Currently learning **Advanced JavaScript, React & Full-Stack concepts**  
+- 💬 Ask me about **HTML, CSS, JavaScript, React, GitHub**  
+- 📫 Reach me at **sh707836@gmail.com**
 
+---
+
+### 🤝 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/mrhimanshu0207" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/_.hi.manshu" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>&nbsp;
+  <a href="mailto:sh707836@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -20,42 +45,46 @@ Web Developer | JS • HTML • CSS | Building projects & learning daily 🚀
 ## 📂 Projects
 
 | Project | Description |
-|---------|-------------|
-| [Resume Builder](https://mrhimanshu0207.github.io/Resume-Builder/) | Online resume builder with PDF export & theme switcher. |
-| [File Sharing App](https://mrhimanshu0207.github.io/File-Sharing-with-Link/) | Secure file uploads and link sharing with Firebase. |
-| [Portfolio Website](https://mrhimanshu0207.github.io/Portfolio/) | Personal portfolio showcasing projects, skills & achievements. |
-[Weather Forecast App](https://mrhimanshu0207.github.io/Weather-Forecast-App/) | A web app that provides real-time weather information for any city. |
+|--------|-------------|
+| **Resume Builder** | Online resume builder with PDF export & theme switcher |
+| **File Sharing App** | Secure file upload & link sharing using Firebase |
+| **Portfolio Website** | Personal portfolio showcasing skills & projects |
+| **Weather Forecast App** | Real-time weather data for any city |
+
+🔗 **Live Projects:**  
+- https://mrhimanshu0207.github.io/Resume-Builder/  
+- https://mrhimanshu0207.github.io/File-Sharing-with-Link/  
+- https://mrhimanshu0207.github.io/Portfolio/  
+- https://mrhimanshu0207.github.io/Weather-Forecast-App/
 
 ---
 
 ## 🎯 Learning Goals
-
-- Advanced **JavaScript & React**  
-- Full-stack development with **Node.js & Firebase**  
-- Contributing to **Open-source projects**  
-- Improving **UI/UX skills and portfolio design**  
-
----
-
-## 📬 Contact Me
-
-<p float="left">
-  <a href="mailto:sh707836@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mrhimanshu0207"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/_.hi.manshu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://mrhimanshu0207.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-</p>
-
----
-
-## ⚡ Fun Facts
-
-- Love combining **tech + creativity** in projects  
-- Always learning, building, and leveling up every day 🚀  
+- ⚡ Master **JavaScript & React**
+- 🔧 Learn **Backend & Firebase deeply**
+- 🌍 Contribute to **Open-Source**
+- 🎨 Improve **UI/UX & animations**
 
 ---
 
 ## 📊 GitHub Stats
 
-![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrhimanshu0207&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhimanshu0207&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrhimanshu0207&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhimanshu0207&layout=compact&theme=radical" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhimanshu0207&theme=radical" />
+</p>
+
+---
+
+## ⚡ Fun Facts
+- 🚀 Love mixing **logic + creativity**
+- 🧠 Learning something new every day
+- 💻 Believe in *build → break → improve*
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=mrhimanshu0207&style=flat-square&color=blue" />
