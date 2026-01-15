@@ -7,24 +7,21 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Web Developer passionate about building clean & responsive UIs  
-- 🌱 Currently learning **Advanced JavaScript, React & Full-Stack concepts**  
-- 💬 Ask me about **HTML, CSS, JavaScript, React, GitHub**  
+## 👨‍💻 About Me
+- 🔭 Web Developer passionate about clean & responsive UI
+- 🌱 Learning **Advanced JavaScript, React & Full-Stack concepts**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Git & GitHub**
 - 📫 Reach me at **sh707836@gmail.com**
 
 ---
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/mrhimanshu0207" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>&nbsp;
+  </a>
   <a href="https://www.instagram.com/_.hi.manshu" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>&nbsp;
-  <a href="mailto:sh707836@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -51,37 +48,46 @@
 | [Portfolio Website](https://mrhimanshu0207.github.io/Portfolio/) | Personal portfolio showcasing projects, skills & achievements. |
 [Weather Forecast App](https://mrhimanshu0207.github.io/Weather-Forecast-App/) | A web app that provides real-time weather information for any city. |
 
+
 ---
 
 ## 🎯 Learning Goals
 - ⚡ Master **JavaScript & React**
-- 🔧 Learn **Backend & Firebase deeply**
+- 🔧 Learn **Backend & Firebase**
 - 🌍 Contribute to **Open-Source**
 - 🎨 Improve **UI/UX & animations**
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrhimanshu0207&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mrhimanshu0207&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhimanshu0207&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=mrhimanshu0207&theme=radical&hide_border=true" />
 </p>
 
+---
+
+## 📈 Contribution Calendar
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhimanshu0207&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrhimanshu0207&theme=react-dark&hide_border=true" />
 </p>
 
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrhimanshu0207/mrhimanshu0207/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
 ## ⚡ Fun Facts
 - 🚀 Love mixing **logic + creativity**
 - 🧠 Learning something new every day
-- 💻 Believe in *build → break → improve*
+- 💻 Believe in **build → break → improve**
 
 ---
 
