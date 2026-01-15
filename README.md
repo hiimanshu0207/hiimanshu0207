@@ -1,120 +1,99 @@
-<!-- ========================= -->
-<!-- SEO OPTIMIZED GITHUB README -->
-<!-- ========================= -->
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTE5ejVoYm5zYWNrY2V6c3d0Y2FyZTZvZW5mMHF3OGttcWhseG5iYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="100%" />
 
-<div align="center">
+<h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
+<h3 align="center">Web Developer | Frontend-Focused | India 🇮🇳</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:7F00FF&height=220&section=header&text=Himanshu%20Singh&fontSize=44&fontColor=ffffff&animation=fadeIn" />
+<img align="right" alt="Coding" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<h2>Web Developer | Frontend Engineer | JavaScript & React</h2>
+---
 
-<p>
-Building responsive, user-friendly web applications with modern JavaScript tools.
+## 👨‍💻 About Me
+- 🔭 Web Developer passionate about clean & responsive UI
+- 🌱 Learning **Advanced JavaScript, React & Full-Stack concepts**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Git & GitHub**
+- 📫 Reach me at **sh707836@gmail.com**
+
+---
+
+## 🤝 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/mrhimanshu0207" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/_.hi.manshu" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=560&lines=Frontend+Web+Developer;JavaScript+%7C+React+%7C+HTML+CSS;Learning+Full+Stack+Development;Building+Projects+Every+Day" />
+---
 
-</div>
+## 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&animation=blink" width="100%" />
+---
 
-## 👨‍💻 About Me | Software & Web Developer
-
-I am **Himanshu Singh**, a **Frontend-focused Web Developer from India 🇮🇳**.  
-I enjoy transforming ideas into **clean, accessible, and performant web applications**.
-
-- 🔹 Frontend Development with **HTML, CSS, JavaScript & React**
-- 🔹 Strong focus on **UI/UX and responsive design**
-- 🔹 Currently learning **Full-Stack Development**
-- 🔹 Interested in **open-source and real-world projects**
-- 📫 Contact: **sh707836@gmail.com**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&animation=blink" width="100%" />
-
-## 🛠️ Technical Skills | Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode&theme=dark" />
-</p>
-
-**Core Skills (SEO Keywords):**
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js (Frontend Framework)
-- Responsive Web Design
-- Git & GitHub Version Control
-- REST APIs (Basics)
-- UI/UX Fundamentals
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&animation=blink" width="100%" />
-
-## 🚀 Projects | Web Development Work
+## 📂 Projects
 
 | Project | Description |
-|-------|-------------|
-| **Resume Builder** | Web app to create professional resumes with PDF export |
-| **File Sharing App** | Secure file upload & shareable links using Firebase |
-| **Portfolio Website** | Personal portfolio showcasing skills and projects |
-| **Weather Forecast App** | Real-time weather data using public API |
+|-------|------------|
+| **Resume Builder** | Online resume builder with PDF export & theme switcher |
+| **File Sharing App** | Secure file upload & link sharing using Firebase |
+| **Portfolio Website** | Personal portfolio showcasing skills & projects |
+| **Weather Forecast App** | Real-time weather data for any city |
 
-### 🔗 Live Project Links
+🔗 **Live Links**
 - https://mrhimanshu0207.github.io/Resume-Builder/
 - https://mrhimanshu0207.github.io/File-Sharing-with-Link/
 - https://mrhimanshu0207.github.io/Portfolio/
 - https://mrhimanshu0207.github.io/Weather-Forecast-App/
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&animation=blink" width="100%" />
+---
 
-## 🎯 Learning Goals & Career Focus
+## 🎯 Learning Goals
+- ⚡ Master **JavaScript & React**
+- 🔧 Learn **Backend & Firebase**
+- 🌍 Contribute to **Open-Source**
+- 🎨 Improve **UI/UX & animations**
 
-- 📌 Advance **JavaScript & React**
-- 📌 Learn **Backend Development (Node.js & Databases)**
-- 📌 Build **production-ready full-stack projects**
-- 📌 Contribute to **open-source**
-- 📌 Improve **systematic problem solving**
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&animation=blink" width="100%" />
-
-## 📊 GitHub Activity (Contribution Streak)
-
+## 📊 GitHub Stats
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=mrhimanshu0207&theme=radical&hide_border=true" 
-    alt="Himanshu Singh GitHub Contribution Streak"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrhimanshu0207&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&animation=blink" width="100%" />
-
-## 📈 Contribution Calendar | GitHub Activity Graph
-
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mrhimanshu0207&theme=react-dark&hide_border=true"
-    alt="Himanshu Singh GitHub Contribution Graph"
-  />
+  <img src="https://streak-stats.demolab.com?user=mrhimanshu0207&theme=radical&hide_border=true" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&animation=blink" width="100%" />
+---
 
-## 🐍 GitHub Contribution Snake (Auto Light/Dark)
+## 📈 Contribution Calendar
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrhimanshu0207&theme=react-dark&hide_border=true" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mrhimanshu0207/mrhimanshu0207/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mrhimanshu0207/mrhimanshu0207/output/github-snake.svg" />
-  <img 
-    alt="GitHub Contribution Snake Animation"
-    src="https://raw.githubusercontent.com/mrhimanshu0207/mrhimanshu0207/output/github-snake.svg"
-  />
-</picture>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00FFFF&height=90&section=footer" width="100%" />
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrhimanshu0207/mrhimanshu0207/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-<div align="center">
+---
 
-✨ **Build → Break → Improve** ✨  
+## ⚡ Fun Facts
+- 🚀 Love mixing **logic + creativity**
+- 🧠 Learning something new every day
+- 💻 Believe in **build → break → improve**
 
-<img src="https://komarev.com/ghpvc/?username=mrhimanshu0207&style=flat-square&color=00FFFF" />
+---
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=mrhimanshu0207&style=flat-square&color=blue" />
