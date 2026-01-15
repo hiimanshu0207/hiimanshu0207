@@ -57,5 +57,5 @@ Web Developer | JS • HTML • CSS | Building projects & learning daily 🚀
 
 ## 📊 GitHub Stats
 
-![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrhimanshu0207&show_icons=true&theme=radical)  
+![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrhimanshu0207&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhimanshu0207&layout=compact&theme=radical)
