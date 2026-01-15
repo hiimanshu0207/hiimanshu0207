@@ -1,107 +1,61 @@
-<!-- ================= NEON GLASSMORPHISM PROFILE ================= -->
+# 👋 Hi, I'm Himanshu Singh
 
-<h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
+Web Developer | JS • HTML • CSS | Building projects & learning daily 🚀  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Web+Developer;Frontend+%26+Full-Stack+Learner;React+%7C+Node.js+%7C+JavaScript;Building+Real-World+Projects+Daily+🚀" />
-</p>
+---
 
-<p align="center">
-  <b>Web Developer | Frontend Specialist | Open-Source Learner</b><br/>
-  Building fast, scalable & aesthetic web apps ✨
-</p>
+## 🛠️ Skills
 
-<p align="center">
-  <a href="mailto:sh707836@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mrhimanshu0207"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/_himanshu0._.0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://mrhimanshu0207.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📂 Projects
+
+| Project | Description |
+|---------|-------------|
+| [Resume Builder](https://mrhimanshu0207.github.io/Resume-Builder/) | Online resume builder with PDF export & theme switcher. |
+| [File Sharing App](https://mrhimanshu0207.github.io/File-Sharing-with-Link/) | Secure file uploads and link sharing with Firebase. |
+| [Portfolio Website](https://mrhimanshu0207.github.io/Portfolio/) | Personal portfolio showcasing projects, skills & achievements. |
+[Weather Forecast App](https://mrhimanshu0207.github.io/Weather-Forecast-App/) | A web app that provides real-time weather information for any city. |
+
+---
+
+## 🎯 Learning Goals
+
+- Advanced **JavaScript & React**  
+- Full-stack development with **Node.js & Firebase**  
+- Contributing to **Open-source projects**  
+- Improving **UI/UX skills and portfolio design**  
+
+---
+
+## 📬 Contact Me
+
+<p float="left">
+  <a href="mailto:sh707836@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mrhimanshu0207"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_.hi.manshu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://mrhimanshu0207.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🧊 About Me (SEO Optimized)
+## ⚡ Fun Facts
 
-I am a **Web Developer** specializing in **JavaScript, React, HTML, CSS, and Node.js**.  
-I focus on **frontend development**, **UI/UX**, and **real-world projects** while learning **full-stack development**.
-
-- 🔭 Working on **React & JavaScript projects**
-- 🌱 Learning **Advanced React, Node.js & Firebase**
-- 👯 Open to **open-source collaboration**
-- 💬 Ask me about **Frontend, GitHub, portfolios**
-- ⚡ Goal: Become a **professional full-stack developer**
-
----
-
-## 🛠️ Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,nodejs,mongodb,mysql,firebase,git,github,vscode,photoshop,figma&perline=8" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🧾 Resume Builder
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mrhimanshu0207/Resume-Builder/main/preview.png" width="85%" />
-</p>
-**Tech:** HTML • CSS • JavaScript  
-🔗 https://mrhimanshu0207.github.io/Resume-Builder/
-
----
-
-### 📁 File Sharing App
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mrhimanshu0207/File-Sharing-with-Link/main/preview.png" width="85%" />
-</p>
-**Tech:** JavaScript • Firebase  
-🔗 https://mrhimanshu0207.github.io/File-Sharing-with-Link/
-
----
-
-### 🌦️ Weather Forecast App
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mrhimanshu0207/Weather-Forecast-App/main/preview.png" width="85%" />
-</p>
-**Tech:** JavaScript • API  
-🔗 https://mrhimanshu0207.github.io/Weather-Forecast-App/
-
----
-
-### 🌐 Portfolio Website
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mrhimanshu0207/Portfolio/main/preview.png" width="85%" />
-</p>
-**Tech:** React • CSS  
-🔗 https://mrhimanshu0207.github.io/Portfolio/
+- Love combining **tech + creativity** in projects  
+- Always learning, building, and leveling up every day 🚀  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrhimanshu0207&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mrhimanshu0207&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhimanshu0207&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mrhimanshu0207/mrhimanshu0207/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mrhimanshu0207&icon=5&color=12" />
-</p>
-
-<!-- END -->
+![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrhimanshu0207&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhimanshu0207&layout=compact&theme=radical)
