@@ -65,9 +65,6 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrhimanshu0207&show_icons=true&theme=radical&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mrhimanshu0207&theme=radical&hide_border=true" />
@@ -84,8 +81,9 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mrhimanshu0207/mrhimanshu0207/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/mrhimanshu0207/mrhimanshu0207/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
