@@ -45,17 +45,11 @@
 ## 📂 Projects
 
 | Project | Description |
-|--------|-------------|
-| **Resume Builder** | Online resume builder with PDF export & theme switcher |
-| **File Sharing App** | Secure file upload & link sharing using Firebase |
-| **Portfolio Website** | Personal portfolio showcasing skills & projects |
-| **Weather Forecast App** | Real-time weather data for any city |
-
-🔗 **Live Projects:**  
-- https://mrhimanshu0207.github.io/Resume-Builder/  
-- https://mrhimanshu0207.github.io/File-Sharing-with-Link/  
-- https://mrhimanshu0207.github.io/Portfolio/  
-- https://mrhimanshu0207.github.io/Weather-Forecast-App/
+|---------|-------------|
+| [Resume Builder](https://mrhimanshu0207.github.io/Resume-Builder/) | Online resume builder with PDF export & theme switcher. |
+| [File Sharing App](https://mrhimanshu0207.github.io/File-Sharing-with-Link/) | Secure file uploads and link sharing with Firebase. |
+| [Portfolio Website](https://mrhimanshu0207.github.io/Portfolio/) | Personal portfolio showcasing projects, skills & achievements. |
+[Weather Forecast App](https://mrhimanshu0207.github.io/Weather-Forecast-App/) | A web app that provides real-time weather information for any city. |
 
 ---
 
