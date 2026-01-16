@@ -70,6 +70,11 @@
   <img src="https://streak-stats.demolab.com?user=mrhimanshu0207&theme=react-dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrhimanshu0207&show_icons=true&theme=react-dark&hide_border=true" />
+</p>
+
+
 
 ---
 
