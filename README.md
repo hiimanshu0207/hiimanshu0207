@@ -1,11 +1,15 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTE5ejVoYm5zYWNrY2V6c3d0Y2FyZTZvZW5mMHF3OGttcWhseG5iYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="100%" />
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+I'm+Himanshu+Singh+👋;Web+Developer+💻;Frontend+Focused+🎨;Learning+React+%26+Full+Stack+🚀;Building+Clean+UI+Every+Day" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
 <h3 align="center">Web Developer | Frontend-Focused | India 🇮🇳</h3>
 
 <img align="right" alt="Coding" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:38BDF8,100:1E293B" width="100%" />
 
 ## 👨‍💻 About Me
 - 🔭 Web Developer passionate about clean & responsive UI
@@ -13,7 +17,7 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Git & GitHub**
 - 📫 Reach me at **sh707836@gmail.com**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22D3EE,100:0F172A" width="100%" />
 
 ## 🤝 Connect With Me
 <p align="left">
@@ -25,7 +29,7 @@
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:38BDF8,100:1E293B" width="100%" />
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,6 +42,22 @@
 ![VS Code](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+
+## 📊 Skill Levels (Animated)
+
+**HTML / CSS**
+<img src="https://progress-bar.dev/90/?title=HTML+CSS&color=38BDF8&width=800" />
+
+**JavaScript**
+<img src="https://progress-bar.dev/80/?title=JavaScript&color=22D3EE&width=800" />
+
+**React**
+<img src="https://progress-bar.dev/70/?title=React&color=60A5FA&width=800" />
+
+**Git & GitHub**
+<img src="https://progress-bar.dev/75/?title=Git+%26+GitHub&color=818CF8&width=800" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22D3EE,100:0F172A" width="100%" />
 
 ## 📂 Projects
 
@@ -54,7 +74,7 @@
 - https://mrhimanshu0207.github.io/Portfolio/
 - https://mrhimanshu0207.github.io/Weather-Forecast-App/
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:38BDF8,100:1E293B" width="100%" />
 
 ## 🎯 Learning Goals
 - ⚡ Master **JavaScript & React**
@@ -65,7 +85,6 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mrhimanshu0207&theme=react-dark&hide_border=true" />
 </p>
@@ -73,8 +92,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrhimanshu0207&show_icons=true&theme=react-dark&hide_border=true" />
 </p>
-
-
 
 ---
 
@@ -90,7 +107,6 @@
   <img src="https://raw.githubusercontent.com/mrhimanshu0207/mrhimanshu0207/output/github-contribution-grid-snake.svg" />
 </p>
 
-
 ---
 
 ## ⚡ Fun Facts
@@ -98,6 +114,8 @@
 - 🧠 Learning something new every day
 - 💻 Believe in **build → break → improve**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22D3EE,100:0F172A" width="100%" />
 
-<img src="https://komarev.com/ghpvc/?username=mrhimanshu0207&style=flat-square&color=blue" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrhimanshu0207&style=flat-square&color=38BDF8" />
+</p>
