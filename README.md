@@ -67,8 +67,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mrhimanshu0207&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=mrhimanshu0207&theme=react-dark&hide_border=true" />
 </p>
+
 
 ---
 
