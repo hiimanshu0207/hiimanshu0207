@@ -1,5 +1,3 @@
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTE5ejVoYm5zYWNrY2V6c3d0Y2FyZTZvZW5mMHF3OGttcWhseG5iYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="100%" />
-
 <h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
 <h3 align="center">Web Developer | Frontend-Focused | India 🇮🇳</h3>
 
