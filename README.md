@@ -1,168 +1,165 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=220&section=header&text=Himanshu%20Singh&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Web%20Developer%20%7C%20Frontend%20Enthusiast%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=58&descAlign=50&descSize=20"/>
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Himanshu%20Singh&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Frontend%20Developer%20%7C%20UI%20Enthusiast%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=18&descAlign=50&descAlignY=64&descColor=a78bfa"/>
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Hey+there!+I'm+Himanshu+%F0%9F%91%8B;Web+Developer+%7C+Frontend+Focused+%F0%9F%9A%80;Building+Clean+%26+Responsive+UIs+%F0%9F%8E%A8;Learning+React+%26+Full-Stack+%F0%9F%93%9A;Open+to+Collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
+</div>
+
+<!-- TYPING BANNER -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&random=true&width=600&lines=%F0%9F%9A%80+Turning+ideas+into+beautiful+interfaces;%F0%9F%A7%A0+Always+learning%2C+always+building;%F0%9F%8E%A8+UI+%2F+UX+is+my+love+language;%F0%9F%94%A5+Clean+code+%3D+Clean+mind;%F0%9F%A4%9D+Let%27s+build+something+amazing+together)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
-<!-- Profile badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=hiimanshu0207&color=6ad3f7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/hiimanshu0207)
-[![GitHub followers](https://img.shields.io/github/followers/hiimanshu0207?label=Followers&style=for-the-badge&color=6ad3f7&labelColor=0D1117)](https://github.com/hiimanshu0207?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/hiimanshu0207?label=Stars&style=for-the-badge&color=FFD700&labelColor=0D1117)](https://github.com/hiimanshu0207)
+<!-- QUICK STATS ROW -->
+<div align="center">
+
+![](https://img.shields.io/badge/Focus-Frontend_Development-a78bfa?style=flat-square&labelColor=0f0c29)&nbsp;
+![](https://img.shields.io/badge/Lives-India-ff6b6b?style=flat-square&labelColor=0f0c29)&nbsp;
+![](https://img.shields.io/badge/Languages-HTML%2C_CSS%2C_JS%2C_React-4ade80?style=flat-square&labelColor=0f0c29)&nbsp;
+[![](https://img.shields.io/badge/Portfolio-Visit_Now-a78bfa?style=flat-square&logo=google-chrome&logoColor=white&labelColor=0f0c29)](https://mrhimanshu0207.github.io/Portfolio/)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<!-- ABOUT + GIF SIDE BY SIDE -->
 
-```yaml
-name        : "Himanshu Singh"
-location    : "India 🇮🇳"
-role        : "Web Developer | Frontend Focused"
-focus       : "Clean, Responsive & Beautiful UIs"
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-currently_learning:
-  - Advanced JavaScript (ES2024+)
-  - React & Next.js
-  - Full-Stack Development (Node.js + MongoDB)
+### 👨‍💻 &nbsp;About Me
 
-can_help_with:
-  - HTML5 / CSS3 / JavaScript
-  - React.js  
-  - Git & GitHub
-  - Responsive Web Design
+- 🔭 &nbsp; Currently building **full-stack web apps**
+- 🌱 &nbsp; Leveling up in **React, Node.js & MongoDB**
+- 💡 &nbsp; Love crafting **pixel-perfect, responsive UIs**
+- 🎯 &nbsp; Goal: Become a **Full-Stack Developer**
+- 🤝 &nbsp; Open to **collaborations & freelance work**
+- 💬 &nbsp; Ask me about **HTML, CSS, JS, React, Git**
+- 📬 &nbsp; Reach me: **sh707836@gmail.com**
+- ⚡ &nbsp; Fun fact: I debug with `console.log` & zero regrets
 
-reach_me_at : "sh707836@gmail.com"
-fun_fact    : "I think of UI bugs as puzzles - love solving them! 🧩"
-```
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- SKILLS - Using skillicons.dev for modern look -->
+
+### 🛠️ &nbsp;Tech Stack & Tools
 
 <div align="center">
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Languages & Frameworks**
 
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express&perline=8)](https://skillicons.dev)
 
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
+**Databases & Cloud**
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,mysql,supabase&perline=8)](https://skillicons.dev)
+
+**Tools & Platforms**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,postman,linux&perline=8)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<!-- STATS -->
+
+### 📊 &nbsp;GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiimanshu0207&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiimanshu0207&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=hiimanshu0207&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiimanshu0207&layout=donut&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hiimanshu0207&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FFD700&currStreakLabel=6AD3F7)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hiimanshu0207&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hiimanshu0207&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<!-- ACTIVITY GRAPH -->
+
+### 📈 &nbsp;Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hiimanshu0207&custom_title=Himanshu%27s%20Contribution%20Graph&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area_color=7c3aed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<!-- TROPHIES -->
+
+### 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
 
-| Project | Description | Live |
-|---------|-------------|------|
-| 📄 **Resume Builder** | Online resume builder with PDF export & theme switcher | [🔗 Live](https://mrhimanshu0207.github.io/Resume-Builder/) |
-| 🔗 **File Sharing App** | Secure file upload & link sharing using Firebase | [🔗 Live](https://mrhimanshu0207.github.io/File-Sharing-with-Link/) |
-| 🌐 **Portfolio Website** | Personal portfolio showcasing skills & projects | [🔗 Live](https://mrhimanshu0207.github.io/Portfolio/) |
-| 🌤️ **Weather Forecast App** | Real-time weather data for any city using OpenWeather API | [🔗 Live](https://mrhimanshu0207.github.io/Weather-Forecast-App/) |
-
-</div>
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hiimanshu0207&repo=Resume-Builder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7)](https://github.com/hiimanshu0207/Resume-Builder)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hiimanshu0207&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7)](https://github.com/hiimanshu0207/Portfolio)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hiimanshu0207&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+<!-- PROJECTS -->
+
+### 🚀 &nbsp;Featured Work
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hiimanshu0207&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFD700)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://mrhimanshu0207.github.io/Resume-Builder/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hiimanshu0207&repo=Resume-Builder&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&description_lines_count=2"/>
+</a>
+<a href="https://mrhimanshu0207.github.io/Portfolio/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hiimanshu0207&repo=Portfolio&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&description_lines_count=2"/>
+</a>
+<a href="https://mrhimanshu0207.github.io/File-Sharing-with-Link/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hiimanshu0207&repo=File-Sharing-with-Link&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&description_lines_count=2"/>
+</a>
+<a href="https://mrhimanshu0207.github.io/Weather-Forecast-App/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hiimanshu0207&repo=Weather-Forecast-App&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&description_lines_count=2"/>
+</a>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+<!-- CONNECT -->
+
+### 🌐 &nbsp;Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrhimanshu0207)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.hi.manshu)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh707836@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hiimanshu0207)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mrhimanshu0207.github.io/Portfolio/)
+<a href="https://www.linkedin.com/in/mrhimanshu0207" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
+<a href="https://www.instagram.com/_.hi.manshu" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>&nbsp;
+<a href="mailto:sh707836@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>&nbsp;
+<a href="https://mrhimanshu0207.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%23a78bfa.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 </div>
 
----
+<br/>
+
+<!-- SNAKE / VISITORS -->
 
 <div align="center">
 
-### 💬 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=hiimanshu0207&color=a78bfa&style=flat-square&label=Profile+Views)&nbsp;&nbsp;
+![Visitors](https://img.shields.io/badge/Thanks_for_visiting!-%E2%9D%A4-a78bfa?style=flat-square)
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom_header.svg" />
-
-**⭐ If you find my work interesting, feel free to star my repos and connect! ⭐**
-
-*Made with ❤️ by Himanshu Singh • Updated 2025*
-
-<!-- Animated footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer"/>
-
-</div>
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=twinkling"/>
