@@ -1,165 +1,165 @@
 <div align="center">
 
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Himanshu%20Singh&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Frontend%20Developer%20%7C%20UI%20Enthusiast%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=18&descAlign=50&descAlignY=64&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Himanshu%20Singh&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20B.Tech%20CSE%20@%20GLA%20University%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=60&descSize=16&descColor=a3e635"/>
 
-</div>
-
-<!-- TYPING BANNER -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&random=true&width=600&lines=%F0%9F%9A%80+Turning+ideas+into+beautiful+interfaces;%F0%9F%A7%A0+Always+learning%2C+always+building;%F0%9F%8E%A8+UI+%2F+UX+is+my+love+language;%F0%9F%94%A5+Clean+code+%3D+Clean+mind;%F0%9F%A4%9D+Let%27s+build+something+amazing+together)](https://git.io/typing-svg)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=84CC16&center=true&vCenter=true&width=700&lines=Hey!+I'm+Himanshu+%F0%9F%91%8B;Full+Stack+Developer+%7C+React+%2B+Node.js+%2B+MongoDB;Building+Real-World+Projects+%F0%9F%9A%80;Google+Cybersecurity+Certified+%F0%9F%94%92;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- QUICK STATS ROW -->
-<div align="center">
-
-![](https://img.shields.io/badge/Focus-Frontend_Development-a78bfa?style=flat-square&labelColor=0f0c29)&nbsp;
-![](https://img.shields.io/badge/Lives-India-ff6b6b?style=flat-square&labelColor=0f0c29)&nbsp;
-![](https://img.shields.io/badge/Languages-HTML%2C_CSS%2C_JS%2C_React-4ade80?style=flat-square&labelColor=0f0c29)&nbsp;
-[![](https://img.shields.io/badge/Portfolio-Visit_Now-a78bfa?style=flat-square&logo=google-chrome&logoColor=white&labelColor=0f0c29)](https://mrhimanshu0207.github.io/Portfolio/)
+[![Profile Views](https://komarev.com/ghpvc/?username=hiimanshu0207&color=84cc16&style=flat-square&label=Profile+Views)](https://github.com/hiimanshu0207)
+[![GitHub followers](https://img.shields.io/github/followers/hiimanshu0207?label=Followers&style=flat-square&color=84cc16&labelColor=1a1a2e)](https://github.com/hiimanshu0207?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mrhimanshu0207)
 
 </div>
 
 ---
 
-<!-- ABOUT + GIF SIDE BY SIDE -->
+## 🧑‍💻 About Me
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding gif"/>
 
-### 👨‍💻 &nbsp;About Me
+```js
+const himanshu = {
+  name     : "Himanshu Singh",
+  location : "India 🇮🇳",
+  education: "B.Tech CSE @ GLA University (2023–2027)",
+  cgpa     : "6.37 / 10",
+  role     : "Full Stack Developer",
+  email    : "sh707836@gmail.com",
 
-- 🔭 &nbsp; Currently building **full-stack web apps**
-- 🌱 &nbsp; Leveling up in **React, Node.js & MongoDB**
-- 💡 &nbsp; Love crafting **pixel-perfect, responsive UIs**
-- 🎯 &nbsp; Goal: Become a **Full-Stack Developer**
-- 🤝 &nbsp; Open to **collaborations & freelance work**
-- 💬 &nbsp; Ask me about **HTML, CSS, JS, React, Git**
-- 📬 &nbsp; Reach me: **sh707836@gmail.com**
-- ⚡ &nbsp; Fun fact: I debug with `console.log` & zero regrets
+  currentlyLearning : ["System Design", "DSA", "DevOps Basics"],
+  openTo            : ["Internships", "Freelance", "Open Source"],
+  askMeAbout        : ["React", "Node.js", "MongoDB", "REST APIs"],
+
+  achievements: [
+    "Gen AI Exchange Hackathon 2025 — Google Cloud",
+    "Hackoverflow 9.0 @ NIT Durgapur",
+    "Google Cybersecurity Certificate — Coursera"
+  ]
+};
+```
 
 <br clear="right"/>
 
 ---
 
-<!-- SKILLS - Using skillicons.dev for modern look -->
-
-### 🛠️ &nbsp;Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages & Frameworks**
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express&perline=8)](https://skillicons.dev)
-
-**Databases & Cloud**
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,mysql,supabase&perline=8)](https://skillicons.dev)
-
-**Tools & Platforms**
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,postman,linux&perline=8)](https://skillicons.dev)
-
-</div>
-
----
-
-<!-- STATS -->
-
-### 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=hiimanshu0207&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiimanshu0207&layout=donut&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=hiimanshu0207&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-
-### 📈 &nbsp;Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hiimanshu0207&custom_title=Himanshu%27s%20Contribution%20Graph&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area_color=7c3aed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-<!-- TROPHIES -->
-
-### 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hiimanshu0207&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<!-- PROJECTS -->
-
-### 🚀 &nbsp;Featured Work
-
-<div align="center">
-
-<a href="https://mrhimanshu0207.github.io/Resume-Builder/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hiimanshu0207&repo=Resume-Builder&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&description_lines_count=2"/>
-</a>
-<a href="https://mrhimanshu0207.github.io/Portfolio/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hiimanshu0207&repo=Portfolio&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&description_lines_count=2"/>
-</a>
-<a href="https://mrhimanshu0207.github.io/File-Sharing-with-Link/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hiimanshu0207&repo=File-Sharing-with-Link&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&description_lines_count=2"/>
-</a>
-<a href="https://mrhimanshu0207.github.io/Weather-Forecast-App/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hiimanshu0207&repo=Weather-Forecast-App&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&description_lines_count=2"/>
-</a>
-
-</div>
-
----
-
-<!-- CONNECT -->
-
-### 🌐 &nbsp;Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/mrhimanshu0207" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
-<a href="https://www.instagram.com/_.hi.manshu" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>&nbsp;
-<a href="mailto:sh707836@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>&nbsp;
-<a href="https://mrhimanshu0207.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%23a78bfa.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-</div>
-
+**Languages**
 <br/>
+<img src="https://skillicons.dev/icons?i=java,js,python,sql&theme=dark" />
 
-<!-- SNAKE / VISITORS -->
+**Frontend & Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark" />
 
-<div align="center">
+**Database & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,vercel&theme=dark" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=hiimanshu0207&color=a78bfa&style=flat-square&label=Profile+Views)&nbsp;&nbsp;
-![Visitors](https://img.shields.io/badge/Thanks_for_visiting!-%E2%9D%A4-a78bfa?style=flat-square)
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark" />
 
 </div>
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=twinkling"/>
+---
+
+## 🚀 Live Projects
+
+<div align="center">
+
+| Project | Tech Stack | Live | Repo |
+|:--------|:-----------|:----:|:----:|
+| 📚 **Book Review Platform** | React.js • Node.js • Express.js • MongoDB | [🌐 Demo](https://book-review-app-sepia.vercel.app/) | [📂 Code](https://github.com/hiimanshu0207/book_review_app) |
+| 🌤️ **Weather Forecast App** | HTML • CSS • JS • Node.js • OpenWeatherMap API | [🌐 Demo](https://skycast-pro-sage.vercel.app) | [📂 Code](https://github.com/hiimanshu0207/Weather-Forecast-App) |
+| 🔗 **SnapLink URL Shortener** | Full Stack • Vercel | [🌐 Demo](https://snap-link-url-shortener.vercel.app) | [📂 Code](https://github.com/hiimanshu0207/SnapLink-URL-Shortener) |
+| 🌐 **Portfolio Website** | HTML • CSS • JS | [🌐 Demo](https://portfolio-website-sooty-ten-37.vercel.app) | [📂 Code](https://github.com/hiimanshu0207/Portfolio-Website) |
+
+</div>
+
+### 📌 Pinned Highlights
+
+<div align="center">
+
+[![Book Review](https://github-readme-stats.vercel.app/api/pin/?username=hiimanshu0207&repo=book_review_app&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=84cc16&icon_color=84cc16)](https://github.com/hiimanshu0207/book_review_app)
+[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=hiimanshu0207&repo=Weather-Forecast-App&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=84cc16&icon_color=84cc16)](https://github.com/hiimanshu0207/Weather-Forecast-App)
+
+[![SnapLink](https://github-readme-stats.vercel.app/api/pin/?username=hiimanshu0207&repo=SnapLink-URL-Shortener&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=84cc16&icon_color=84cc16)](https://github.com/hiimanshu0207/SnapLink-URL-Shortener)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=hiimanshu0207&repo=Portfolio-Website&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=84cc16&icon_color=84cc16)](https://github.com/hiimanshu0207/Portfolio-Website)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiimanshu0207&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiimanshu0207&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=hiimanshu0207&theme=dark&hide_border=true&background=0D1117&stroke=84CC16&ring=84CC16&fire=a3e635&currStreakLabel=84CC16&dates=84CC16)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hiimanshu0207&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+```
+🏛️  GLA University Mathura          B.Tech — Computer Science & Engineering    2023 – 2027  CGPA: 6.37
+🏫  Suditi Global Academy Mainpur   Intermediate                                 May 2023     76%
+🏫  Suditi Global Academy Mainpur   High School                                  May 2021     85%
+
+🏅  Google Cybersecurity Professional Certificate — Coursera                     July 2025
+    Network Security • Linux • SQL • Bash • Cloud Security • Incident Response
+```
+
+---
+
+## 🏅 Achievements
+
+- 🤖 **Gen AI Exchange Hackathon 2025** — Google Cloud Skills Boost
+- 💻 **Hackoverflow 9.0** — NIT Durgapur
+- 🎬 **Video Editor**, Alkyam Club | **Coordinator**, Annual Leadership Summit 2024
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrhimanshu0207)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.hi.manshu)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh707836@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2384cc16.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-website-sooty-ten-37.vercel.app)
+[![Phone](https://img.shields.io/badge/+91%207078369320-%2384cc16.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917078369320)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Code is like humor. When you have to explain it, it's bad." — Cory House*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+</div>
