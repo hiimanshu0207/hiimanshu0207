@@ -22,7 +22,7 @@
 - 🏆 &nbsp; **Google Cybersecurity Certified** — Coursera `2025`
 - 🤖 &nbsp; **Gen AI Exchange Hackathon 2025** — Google Cloud Skills Boost
 - 💻 &nbsp; **Hackoverflow 9.0** — NIT Durgapur
-- 📬 &nbsp; **sh707836@gmail.com** · **+91 7078369320**
+- 📬 &nbsp; **sh707836@gmail.com** · ** **
 - ⚡ &nbsp; I turn coffee into code and ideas into shipped products
 
 ---
